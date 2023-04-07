@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/img/fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.celular {
+    background-color: #100223;
+    margin-top: 10px;
+    background-image: url(/img/frame-iphone.png);
+    position: relative;
+    left: 38%;
+    top: 50%;
+    width: 310px;
+    height: 620px;
+    margin-top: 50px;
+    border-radius: 10%;
+}
+
+.contato {
+    background-color: white;
+    color: #aa69b4;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    height: 471px;
+    width: 268px;
+    position: absolute;
+    left: 7%;
+    top: 13%;
+    margin: auto;
+}
+
+.background {
+    background-color: #d788e354;
+}
+
+a {
+    margin: 10px;
+    padding: 20px;
+    font-size: 35px;
+    background-color: #904c9a;
+    color: #d354e7;
+    text-decoration: none;
+    border-radius: 50%;
+    
+
+}
+
+a:hover{
+    background-color: #d354e7;
+    color: black;
+    cursor: pointer;
+}
+
+.background:hover {
+    cursor: pointer;
+}
+
+.email {
+    font-size: 20px;
+    background-color: #d788e354;
+}
+
+.email:hover {
+    cursor: pointer;
+}
