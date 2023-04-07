@@ -16,6 +16,7 @@ header {
 }
 
 header a {
+    padding: 10px;
     font-size: 25px;
     text-decoration: none;
     color: #DBC8DE;
